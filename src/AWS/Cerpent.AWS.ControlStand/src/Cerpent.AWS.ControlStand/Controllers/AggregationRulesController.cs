@@ -1,4 +1,4 @@
-﻿using Cerpent.AWS.DB;
+﻿using Cerpent.AWS.DB.Repositories;
 using Cerpent.Core.Contract;
 using Microsoft.AspNetCore.Mvc;
 

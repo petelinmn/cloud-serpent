@@ -2,12 +2,12 @@
 using Microsoft.VisualBasic;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace Cerpent.AWS.DB;
+namespace Cerpent.AWS.DB.Repositories;
 
 [TestClass]
 public class Test
 {
-    private string ConnectionString { get; } =
+    private static string ConnectionString =>
         "User ID=postgres;Password=postgres;Host=localhost;Port=5432;Database=postgres";
 
     [TestMethod]

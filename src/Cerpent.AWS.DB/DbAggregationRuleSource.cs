@@ -1,6 +1,6 @@
 ﻿using Cerpent.Core.Contract;
 
-namespace Cerpent.AWS.DB;
+namespace Cerpent.AWS.DB.Repositories;
 
 public class DbAggregationRuleSource : IAggregationRuleSource
 {

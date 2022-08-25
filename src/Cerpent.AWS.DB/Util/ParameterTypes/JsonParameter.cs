@@ -3,7 +3,7 @@ using Dapper;
 using Npgsql;
 using NpgsqlTypes;
 
-namespace Cerpent.AWS.DB.Util.ParameterTypes;
+namespace Cerpent.AWS.DB.Repositories.Util.ParameterTypes;
 
 public class JsonParameter : SqlMapper.ICustomQueryParameter
 {

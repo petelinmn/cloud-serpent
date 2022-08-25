@@ -1,6 +1,6 @@
 ﻿using Npgsql;
 
-namespace Cerpent.AWS.DB.Stuff;
+namespace Cerpent.AWS.DB.Repositories.Stuff;
 
 public class UnitOfWork : IDisposable
 {

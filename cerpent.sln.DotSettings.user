@@ -18,6 +18,7 @@
     &lt;Project Location="D:\Twill\cerpent\src\Cerpent.MockPlatform.Test" Presentation="&amp;lt;MockPlatform&amp;gt;\&amp;lt;Cerpent.MockPlatform.Test&amp;gt;" /&gt;&#xD;
     &lt;TestAncestor&gt;&#xD;
       &lt;TestId&gt;MSTest::EC81FF89-0EC0-4690-A69F-47B3177D9625::net6.0::Cerpent.AWS.DB.Test&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;MSTest::EC81FF89-0EC0-4690-A69F-47B3177D9625::net6.0::Cerpent.AWS.DB.Repositories.Test&lt;/TestId&gt;&#xD;
     &lt;/TestAncestor&gt;&#xD;
   &lt;/Or&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

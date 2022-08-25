@@ -1,4 +1,4 @@
-﻿using Cerpent.AWS.DB;
+﻿using Cerpent.AWS.DB.Repositories;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Cerpent.AWS.ControlStand.Controllers;

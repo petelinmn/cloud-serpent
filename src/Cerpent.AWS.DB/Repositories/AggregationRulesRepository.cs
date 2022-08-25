@@ -1,11 +1,11 @@
 ﻿using System.Collections;
-using Cerpent.AWS.DB.Stuff;
-using Cerpent.AWS.DB.Util.ParameterTypes;
+using Cerpent.AWS.DB.Repositories.Stuff;
+using Cerpent.AWS.DB.Repositories.Util.ParameterTypes;
 using Cerpent.Core.Contract;
 using Dapper;
 using Newtonsoft.Json;
 
-namespace Cerpent.AWS.DB;
+namespace Cerpent.AWS.DB.Repositories;
 
 public class AggregationRulesRepository : BaseRepository
 {

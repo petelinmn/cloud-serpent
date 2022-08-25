@@ -1,7 +1,7 @@
 ﻿using Npgsql;
 using IsolationLevel = System.Data.IsolationLevel;
 
-namespace Cerpent.AWS.DB.Stuff;
+namespace Cerpent.AWS.DB.Repositories.Stuff;
 
 public class ConnectionProvider
 {
